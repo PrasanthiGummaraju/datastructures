@@ -1,2 +1,2 @@
 # datastructures
-This  repo contains dfs,bfs and singlelinked list programs
+This  repo contains data structures programs
